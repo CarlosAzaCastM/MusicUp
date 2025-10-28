@@ -115,14 +115,14 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/musicup/logoMusicUpChico.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\logoMusicUpChico.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="btnBackPlaylists">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/musicup/flecha-izquierda.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\flecha-izquierda.png"/>
         </Property>
       </Properties>
       <Events>
@@ -206,7 +206,7 @@
     <Component class="javax.swing.JButton" name="btnPlaySong">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/musicup/boton-de-playGrande.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\boton-de-playGrande.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -222,7 +222,7 @@
     <Component class="javax.swing.JButton" name="btnNextSong">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/musicup/icon-fin-32.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\icon-fin-32.png"/>
         </Property>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
           <Border info="null"/>
@@ -238,7 +238,7 @@
     <Component class="javax.swing.JButton" name="btnBackSong">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/musicup/icon-flip-fin.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\icon-flip-fin.png"/>
         </Property>
         <Property name="alignmentY" type="float" value="-1.0"/>
         <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">

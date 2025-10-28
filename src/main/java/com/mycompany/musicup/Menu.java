@@ -41,7 +41,8 @@ public class Menu extends javax.swing.JFrame {
         setMaximumSize(new java.awt.Dimension(797, 496));
         setResizable(false);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Documents\\MusicUp\\logoMusicUpMediano.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\logoMusicUpMediano.png")); // NOI18N
+        jLabel1.setText("ffewfwesdf");
 
         btnNewPlaylist.setBackground(new java.awt.Color(126, 105, 168));
         btnNewPlaylist.setFont(new java.awt.Font("Arial", 1, 18)); // NOI18N

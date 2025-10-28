@@ -153,7 +153,7 @@ public class PlaylistFrame extends javax.swing.JFrame {
         setMinimumSize(new java.awt.Dimension(797, 496));
         setResizable(false);
 
-        btnHome.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/musicup/homeIconChico.png"))); // NOI18N
+        btnHome.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\homeIconChico.png")); // NOI18N
         btnHome.setOpaque(false);
         btnHome.setContentAreaFilled(false);
         btnHome.setBorderPainted(false);
@@ -163,7 +163,7 @@ public class PlaylistFrame extends javax.swing.JFrame {
             }
         });
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/musicup/logoMusicUpChico.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\logoMusicUpChico.png")); // NOI18N
 
         jLabel2.setFont(new java.awt.Font("Arial", 1, 36)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(242, 242, 242));

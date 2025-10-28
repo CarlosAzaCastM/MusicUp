@@ -147,9 +147,9 @@ public class MusicPlayerFrame extends javax.swing.JFrame {
         setMinimumSize(new java.awt.Dimension(797, 496));
         setResizable(false);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/musicup/logoMusicUpChico.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\logoMusicUpChico.png")); // NOI18N
 
-        btnBackPlaylists.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/musicup/flecha-izquierda.png"))); // NOI18N
+        btnBackPlaylists.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\flecha-izquierda.png")); // NOI18N
         btnBackPlaylists.setOpaque(false);
         btnBackPlaylists.setContentAreaFilled(false);
         btnBackPlaylists.setBorderPainted(false);
@@ -198,7 +198,7 @@ public class MusicPlayerFrame extends javax.swing.JFrame {
             .addGap(0, 5, Short.MAX_VALUE)
         );
 
-        btnPlaySong.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/musicup/boton-de-playGrande.png"))); // NOI18N
+        btnPlaySong.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\boton-de-playGrande.png")); // NOI18N
         btnPlaySong.setBorder(null);
         btnPlaySong.setOpaque(false);
         btnPlaySong.setContentAreaFilled(false);
@@ -209,7 +209,7 @@ public class MusicPlayerFrame extends javax.swing.JFrame {
             }
         });
 
-        btnNextSong.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/musicup/icon-fin-32.png"))); // NOI18N
+        btnNextSong.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\icon-fin-32.png")); // NOI18N
         btnNextSong.setBorder(null);
         btnNextSong.setOpaque(false);
         btnNextSong.setContentAreaFilled(false);
@@ -220,7 +220,7 @@ public class MusicPlayerFrame extends javax.swing.JFrame {
             }
         });
 
-        btnBackSong.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/musicup/icon-flip-fin.png"))); // NOI18N
+        btnBackSong.setIcon(new javax.swing.ImageIcon("C:\\Users\\carlc\\Desktop\\todo\\ApacheProjects\\MusicUp\\src\\main\\java\\com\\mycompany\\musicup\\icon-flip-fin.png")); // NOI18N
         btnBackSong.setAlignmentY(-1.0F);
         btnBackSong.setBorder(null);
         btnBackSong.setOpaque(false);

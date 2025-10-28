@@ -59,8 +59,9 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\carlc\Documents\MusicUp\logoMusicUpMediano.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\logoMusicUpMediano.png"/>
         </Property>
+        <Property name="text" type="java.lang.String" value="ffewfwesdf"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="btnNewPlaylist">

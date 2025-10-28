@@ -145,14 +145,14 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/musicup/logoMusicUpChico.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\logoMusicUpChico.png"/>
         </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="btnHome">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/musicup/homeIconChico.png"/>
+          <Image iconType="2" name="C:\Users\carlc\Desktop\todo\ApacheProjects\MusicUp\src\main\java\com\mycompany\musicup\homeIconChico.png"/>
         </Property>
       </Properties>
       <Events>
